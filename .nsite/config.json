@@ -1,0 +1,20 @@
+{
+  "relays": [
+    "wss://relay.snort.social",
+    "wss://relay.primal.net",
+    "wss://relay.nostr.band",
+    "wss://relay.nsite.lol"
+  ],
+  "servers": [
+    "https://nosto.re",
+    "https://cdn.hzrd149.com"
+  ],
+  "profile": {
+    "name": "DTAN.xyz",
+    "display_name": "DTAN.xyz",
+    "about": "Torrent index on Nostr"
+  },
+  "publishProfile": true,
+  "publishRelayList": true,
+  "publishServerList": true
+}
